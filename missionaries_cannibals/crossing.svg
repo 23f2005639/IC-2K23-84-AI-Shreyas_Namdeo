@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="290" viewBox="0 0 800 290" role="img" aria-labelledby="title">
+<title id="title">First crossing: two cannibals leave the left bank in a two-person boat</title>
+<rect width="800" height="290" rx="16" fill="#f1f5f9"/>
+<path d="M250 60 H550 V235 H250Z" fill="#bae6fd"/>
+<g font-family="sans-serif" text-anchor="middle" fill="#0f172a">
+<text x="400" y="32" font-size="21" font-weight="bold">First crossing: 2 cannibals travel right</text>
+<text x="125" y="105" font-size="19">LEFT BANK</text>
+<text x="125" y="144" font-size="22">3M + 1C</text>
+<text x="125" y="184" font-size="16">Safe: 3 ≥ 1</text>
+<text x="675" y="105" font-size="19">RIGHT BANK</text>
+<text x="675" y="144" font-size="22">0M + 0C</text>
+<text x="675" y="184" font-size="16">Before arrival</text>
+<text x="400" y="128" font-size="22">C   C</text>
+<path d="M325 142 H475 L450 170 H350Z" fill="#475569"/>
+<path d="M350 198 H450 L440 190 M450 198 L440 206" fill="none" stroke="#0369a1" stroke-width="3"/>
+<text x="400" y="263" font-size="16">M = missionary · C = cannibal · No empty crossings</text>
+</g></svg>
